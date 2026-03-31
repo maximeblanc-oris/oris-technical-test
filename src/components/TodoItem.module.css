@@ -1,0 +1,38 @@
+.item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 12px;
+  padding: 10px 12px;
+  border: 1px solid #d6d9de;
+  border-radius: 8px;
+  background: #fff;
+}
+
+.label {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.title {
+  color: #1f2937;
+}
+
+.done {
+  color: #6b7280;
+  text-decoration: line-through;
+}
+
+.remove {
+  border: 0;
+  border-radius: 6px;
+  padding: 6px 10px;
+  background: #ef4444;
+  color: #fff;
+  cursor: pointer;
+}
+
+.remove:hover {
+  background: #dc2626;
+}

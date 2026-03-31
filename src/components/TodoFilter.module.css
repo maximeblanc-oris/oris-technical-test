@@ -1,0 +1,20 @@
+.wrapper {
+  display: flex;
+  gap: 8px;
+}
+
+.button,
+.active {
+  border: 1px solid #d1d5db;
+  border-radius: 999px;
+  padding: 6px 12px;
+  background: #fff;
+  color: #374151;
+  cursor: pointer;
+}
+
+.active {
+  border-color: #2563eb;
+  background: #2563eb;
+  color: #fff;
+}
