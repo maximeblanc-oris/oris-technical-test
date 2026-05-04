@@ -51,8 +51,6 @@ Suivre ces scenarios et noter les comportements suspects :
    Cocher/decocher rapidement plusieurs taches.
 3. Switch filters (`all`, `active`, `completed`) and verify the active task counter.  
    Changer de filtre (`toutes`, `actives`, `terminees`) et verifier le compteur de taches actives.
-4. Leave the page open for several minutes and watch fluidity/performance.  
-   Laisser la page ouverte plusieurs minutes et surveiller la fluidite/performance.
 
 ## 4) Focused code review / Relecture de code ciblee
 
